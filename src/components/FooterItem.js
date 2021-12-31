@@ -6,7 +6,7 @@ function FooterItem(Props) {
     return (
         <div>
             <div className='profile'>
-                <img src={Props.Img} className='profile-img' alt='FOOTER IMAGE' />
+                <img src={Props.Img} className='profile-img' alt='FOOTER' />
                 <h3 className='profile-name'>{Props.UserName}</h3>
                 <h5 className='profile-contact'>{Props.Contact}</h5>
                 <p className='profile-desc'>{Props.First}</p>
