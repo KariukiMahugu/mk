@@ -35,7 +35,7 @@ function Top() {
                         </div>
                     </div>
                     <div className='image-section'>
-                        <img src="/images/first/6.jpg" alt=""/>
+                        <img src="/images/first/6.JPG" alt="ABOUT"/>
                     </div>
                 </div>
             </div>
