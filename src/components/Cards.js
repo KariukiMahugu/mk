@@ -11,7 +11,7 @@ function Cards() {
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
                         <CardItem
-                        src='images/first/7.JPG'
+                        src='images/first/7.jpg'
                         text='Exlore with the best Tour Company for the youths of East-Africa'
                         label='Adventure'
                         />
@@ -33,7 +33,7 @@ function Cards() {
                         label='Inspiration'
                         />
                         <CardItem
-                        src='images/first/4.JPG'
+                        src='images/first/4.jpg'
                         text='Exlore with the best Tour Company for the youths of East-Africa'
                         label='Adventure'
                         />
