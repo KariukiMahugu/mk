@@ -1,0 +1,19 @@
+.cardz{
+    margin-top: 10px; 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: auto;   
+}
+.card{
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    line-height: 20px;
+    padding: 20px;
+}
+.topic{
+    font-size: 26px;
+    margin-top: 0px;
+    text-decoration: underline;
+}
